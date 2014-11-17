@@ -1,0 +1,6 @@
+include AUTHORS.rst
+include CHANGELOG.rst
+include README.rst
+include LICENSE
+recursive-include nexgen/templates *
+recursive-include nexgen/tests *
